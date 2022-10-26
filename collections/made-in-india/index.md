@@ -2,6 +2,7 @@
 items:
  - TheAlgorithms
  - odpf
+ - mgks/Android-SmartWebView
  - hoppscotch/hoppscotch
  - anuraghazra/github-readme-stats
  - hasura/graphql-engine
