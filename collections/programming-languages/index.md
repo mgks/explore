@@ -1,7 +1,7 @@
 ---
 items:
 - golang/go
-- apple/swift
+- swiftlang/swift
 - microsoft/TypeScript
 - rust-lang/rust
 - JetBrains/kotlin
@@ -67,6 +67,12 @@ items:
 - imba/imba
 - Jackojc/cane
 - cython/cython
+- modular/max
+- odin-lang/Odin
+- apache/groovy
+- ValeLang/Vale
+- factor/factor
+- julelang/jule
 display_name: Programming languages
 created_by: leereilly
 ---

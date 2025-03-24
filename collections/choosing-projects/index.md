@@ -7,9 +7,8 @@ items:
  - SerenityOS/serenity
  - komodorio/helm-dashboard
  - cloudquery/cloudquery
- - EddieHubCommunity/BioDrop
  - Ileriayo/markdown-badges
- - embedchain/embedchain
+ - mem0ai/mem0
  - Codecademy/docs
  - open-sauced/guestbook 
  - firstcontributions/first-contributions

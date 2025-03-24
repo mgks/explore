@@ -1,13 +1,13 @@
 ---
-Projects:
+items:
  - analogjs/analog
  - Atri-Labs/atrilabs-engine
  - bigskysoftware/htmx
  - code-hike/codehike
  - DioxusLabs/dioxus
- - EddieHubCommunity/LinkFree
+ - EddieHubCommunity/BioDrop
  - FashionFreedom/Seamly2D
- - fastai/nbdev
+ - AnswerDotAI/nbdev
  - formbricks/formbricks
  - GyulyVGC/sniffnet
  - JessicaTegner/pypandoc
@@ -15,10 +15,9 @@ Projects:
  - nuxt/nuxt
  - responsively-org/responsively-app
  - simonw/datasette
- - spyder-ide/spyde
  - strawberry-graphql/strawberry
  - termux/termux-app
- - TimothyStiles/poly
+ - bebop/poly
  - trpc/trpc
 display_name: GitHub Accelerator Cohort 2023
 created_by: karasowles

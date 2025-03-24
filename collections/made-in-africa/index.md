@@ -20,6 +20,8 @@ items:
  - javascriptdata/danfojs
  - bangajs/banga-cli
  - jembi/openhim-core-js
+ - Hexastack/eazychart
+ - Hexastack/Hexabot
 display_name: Made in Africa
 created_by: mozzadrella
 image: made-in-africa.png
